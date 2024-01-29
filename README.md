@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hellow World👋
+This is my journey to learning GitHub and how to integrate my data coding (through R) into this software. 
+
+- 🔭 I’m currently working on... my dissertation! Which is how people's identity can expand to include the more-than-human world and how this affects their carbon-reduction behavior. While none of this has anything to do with coding and programming, I spend a lot of time in R analysing data. I want to get better at streamlining this process!
 
 <!--
 **dlindsaymak/dlindsaymak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
